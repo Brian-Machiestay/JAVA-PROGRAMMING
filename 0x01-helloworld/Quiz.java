@@ -1,11 +1,10 @@
+import java.util.Scanner;
+
 /**
  * This program displays quiz questions to users and takes in their answers.
  * It displays 4 options with letters A, B, C and D and computes the final
  * score as a percentage of the total. This score is displayed to the user.
  */
-
-import java.util.Scanner;
-
 public class Quiz {
     public static void main(String[] args) {
         String userAns; //the answer from the user

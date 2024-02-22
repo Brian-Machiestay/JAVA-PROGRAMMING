@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+ * A small library system
+ */
 public class Library {
     private class Book {
         String title;
